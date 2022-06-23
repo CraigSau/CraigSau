@@ -1,4 +1,4 @@
-Hi 👋 My name is Craig Sauers
+Hey there, I'm Craig
 =============================
 
 Software Engineer
