@@ -7,7 +7,7 @@ Software Engineer
 Recent graduate with a degree in Computer Science and a minor in Mathematics. Goals for the year are contributing to an open source project for the first time, as well as finish up a variety of projects that are in the works. Stay tuned for big changes on this page!
 
 * 🌍  I'm based in Pittsburgh, Pennsylvania
-* 🖥️  See my portfolio at [Personal Website (Currently down while new version is in devlopment)](http://craigsau.com)
+* 🖥️  See my portfolio at [Personal Website (Currently down while new version is in devlopment)](http://craigsau.dev)
 * ✉️  You can contact me at [craigwsauers@gmail.com](mailto:craigwsauers@gmail.com)
 * 🧠  I'm learning everything I can, with a main focus on expanding my knowledge in Web Development, and keeping my programming fundamentals sharp.
 
