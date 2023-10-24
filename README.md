@@ -14,8 +14,9 @@ Recent graduate with a degree in Computer Science and a minor in Mathematics. Go
 <a href="https://www.twitter.com/Craig_Sau" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Craig_Sau?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/CraigSau" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/CraigSau?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/Craig_Sau" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/CraigSau?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+src="https://img.shields.io/github/followers/CraigSau?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+###<a href="https://www.twitch.tv/Craig_Sau" target="_blank" rel="noreferrer"><img
+###src="https://img.shields.io/twitch/status/CraigSau?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
